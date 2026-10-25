@@ -13,4 +13,4 @@ Facts for the quarterly onboarding "classic models" segment, covering
 
 - Downloads (at time of check): 3273.6M
 - Likes (at time of check): 3053
-- Checked on: 2026-07-28
+- Checked on: 2026-10-25
